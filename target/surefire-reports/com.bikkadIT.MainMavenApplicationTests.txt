@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bikkadIT.MainMavenApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.891 s -- in com.bikkadIT.MainMavenApplicationTests
